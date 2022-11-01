@@ -1,3 +1,3 @@
 - Homework 3  https://gist.github.com/justBanks/2f9e47dba8afbd8eac6ca7c3222a4adb  
 - Homework 4  https://gist.github.com/justBanks/20cd95c29243cf7118b10b4427d6b2b5
-- Homework 8  [cointest.js](https://github.com/justBanks/Web3-Bootcamp-for-ETHDenver/blob/cb6d48db45d66aaa03ae8c972690a099ea5083d8/VolcanoCoin/test/cointest.js)
+- Homework 8  [test.js](/VolcanoCoin/test/test.js)
