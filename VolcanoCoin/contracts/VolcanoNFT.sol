@@ -12,7 +12,7 @@ contract VolcanoNFT is Ownable, ERC721URIStorage
     Counters.Counter private _tokenIds;
     uint private _totalSupply = 17;
 
-    constructor() Ownable() ERC721("LavaNFT", "LAVA") {
+    constructor() Ownable() ERC721("Pompay", "POMP") {
         mint(msg.sender);
         mint(msg.sender);
         mint(msg.sender); // spare token, to transfer with team wallet
@@ -24,7 +24,7 @@ contract VolcanoNFT is Ownable, ERC721URIStorage
         require(_tokenIds.current() < _totalSupply, "Total supply of tokens has been claimed");
         uint256 newItemId = _tokenIds.current();
         _safeMint(to, newItemId);
-        //_setTokenURI(newItemId, "{\"name\": \"LAVA token\", \"tokenId\": }");
+        //_setTokenURI(newItemId, "{\"name\": \"POMP token\", \"tokenId\": }");
         _totalSupply--;
         console.log("Total supply remaining: ", _totalSupply);
     }

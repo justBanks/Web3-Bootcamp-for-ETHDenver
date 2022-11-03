@@ -32,9 +32,15 @@ an [Encode Club](http://encode.club) bootcamp
    Private Key: 0x59c6995e998f97a5a0044966f0945389dc9e86dae88c7a8412f4603b6b78690d
    ... 
 ```  
+On unit test syntax:  
+Hardhat : https://hardhat.org/guides/waffle-testing.html  
+Foundry : https://book.getfoundry.sh/forge/tests  
+Truffle : https://trufflesuite.com/docs/truffle/testing/writing-tests-in-javascript.html  
+  
 Foundry  
 IPFS (courses)  
 https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-deploy-an-erc-721-nft#adding-files-to-ipfs  
+
 ### [Alchemy](https://docs.alchemy.com/)  
 
 ### [Consensys](https://consensys.net/developers/)
