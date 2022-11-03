@@ -11,7 +11,7 @@ contract VolcanoCoin is Ownable {
         address recipient;
         uint amount;
     }
-    mapping(address => Payment[]) public Payments;
+    mapping(address => Payment[]) private Payments;
 
     // event for EVM logging
     event MintCoins(uint indexed oldSupply, uint indexed newSupply);
