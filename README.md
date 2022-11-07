@@ -53,7 +53,9 @@ https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-de
 [YouTube](https://www.youtube.com/c/SecureumVideos/featured)  
 [Substack](https://secureum.substack.com/archive?sort=new)  
 
-### [RapidTables](https://www.rapidtables.com/convert/number/) (for number conversions)
+### [RapidTables](https://www.rapidtables.com/convert/number/) (for number conversions)  
+
+[Top 5 VS Code Extensions for Smart-Contract Hacking |2022](https://medium.com/@sm4rty/top-5-vs-code-extensions-for-smart-contract-hacking-2022-528740a575c6)  
 
 Further Learnig  
 [Building Web3 Decentralized Apps in Ethereum](https://www.linkedin.com/learning/building-web3-decentralized-apps-in-ethereum) (2 hours)  
