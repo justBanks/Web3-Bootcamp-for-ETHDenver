@@ -41,6 +41,8 @@ Foundry
 IPFS (courses)  
 https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-deploy-an-erc-721-nft#adding-files-to-ipfs  
 
+### [Chainlink docs](https://docs.chain.link/)  
+
 ### [Alchemy](https://docs.alchemy.com/)  
 
 ### [Consensys](https://consensys.net/developers/)
