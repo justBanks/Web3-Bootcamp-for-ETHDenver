@@ -61,6 +61,8 @@ https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-de
 
 Hackathons: Chainlink, ETHGlobal, Devfolio, DoraHacks  
 
+[Blockchain Council](https://www.blockchain-council.org/blockchain-certification/)  
+
 Supplemental Learnig  
 [freeCodeCamp: The ultimate course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (32 hours)  
 [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74) (dev.to)  
