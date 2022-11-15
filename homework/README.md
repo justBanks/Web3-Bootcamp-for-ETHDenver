@@ -2,7 +2,7 @@
 - Homework 4  https://gist.github.com/justBanks/20cd95c29243cf7118b10b4427d6b2b5  
 - Homework 5  [Inherit Ownable from OpenZeppelin](https://github.com/justBanks/Web3-Bootcamp-for-ETHDenver/blob/main/VolcanoCoin/contracts/VolcanoCoin.sol#L4)  
 - Homework 6  [callTreasureContract](https://goerli.etherscan.io/tx/0xc664d64f8368b99871dac94ecda93367ab9402d6933849e012527713625413b3)  
-- Homework 7  [Add functionality](86387520fa66a86392a32844a9deb9e77d2f9df9) to record and view payments.  
+- Homework 7  [Add functionality](https://github.com/justBanks/Web3-Bootcamp-for-ETHDenver/commit/86387520fa66a86392a32844a9deb9e77d2f9df9) to record and view payments.  
 - Homework 8  [test.js](/VolcanoCoin/test/test.js)  
 - Homework 9  [VolcanoNFT](https://gist.github.com/justBanks/c060ae1d86a56235d76bef9f4b2dadf1)  
 - Homework 10 Review the security notes from Lesson 7
