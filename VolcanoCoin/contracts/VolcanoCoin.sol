@@ -48,4 +48,12 @@ contract VolcanoCoin is Ownable {
         emit Sent(msg.sender, receiver, amount);
     }
     
+    function recordPayment(address sender, address receiver, uint amount) private {
+        Payments[sender].push(Payment(receiver, amount));
+    }
+
+    function viewPayments (address sender) external view returns(Payment[] memory) {
+        return Payments[sender];
+    }
+    
 }
