@@ -6,3 +6,4 @@
 - Homework 8  [test.js](/VolcanoCoin/test/test.js)  
 - Homework 9  [VolcanoNFT](https://gist.github.com/justBanks/c060ae1d86a56235d76bef9f4b2dadf1)  
 - Homework 10 Review the security notes from Lesson 7
+- Homework 11 Make VolcanoNFT [payable](https://gist.github.com/justBanks/f3b4264c371420b1f98a90aebe95fde7b2f88f1e)

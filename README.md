@@ -51,6 +51,8 @@ https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-de
 
 ### [OpenZepellin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)  
 
+### [Solidity by Example](https://solidity-by-example.org/)  
+
 ### Secureum
 [YouTube](https://www.youtube.com/c/SecureumVideos/featured)  
 [Substack](https://secureum.substack.com/archive?sort=new)  
