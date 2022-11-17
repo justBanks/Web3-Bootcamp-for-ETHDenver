@@ -8,7 +8,7 @@ describe("VolcanoCoin", function () {
     var coin;
     var owner, addr1;
 
-    beforeAll(async function () {
+    before(async function () {
         [owner, addr1] = await ethers.getSigners();
         VolcanoCoin = await ethers.getContractFactory("VolcanoCoin");
         coin = await VolcanoCoin.deploy();

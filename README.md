@@ -17,6 +17,8 @@ an [Encode Club](http://encode.club) bootcamp
 
 # Resources  
 
+### [Ethereum development documentation](https://ethereum.org/en/developers/docs/)
+
 ### [Hardhat](https://hardhat.org/hardhat-network/docs/overview)  
 ```
  $ npx hardhat node
@@ -52,6 +54,8 @@ https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-de
 ### [OpenZepellin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)  
 
 ### [Solidity by Example](https://solidity-by-example.org/)  
+
+### [Staking pools](https://ethereum.org/en/staking/pools/)  
 
 ### Secureum
 [YouTube](https://www.youtube.com/c/SecureumVideos/featured)  
