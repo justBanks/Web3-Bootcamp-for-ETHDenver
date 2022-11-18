@@ -39,7 +39,7 @@ Hardhat : https://hardhat.org/guides/waffle-testing.html
 Foundry : https://book.getfoundry.sh/forge/tests  
 Truffle : https://trufflesuite.com/docs/truffle/testing/writing-tests-in-javascript.html  
   
-Foundry  
+forge init/build/test  
 IPFS (courses)  
 https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-deploy-an-erc-721-nft#adding-files-to-ipfs  
 
@@ -47,14 +47,14 @@ https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-de
 
 ### [Chainlink docs](https://docs.chain.link/)  
 
-### [Alchemy](https://docs.alchemy.com/)  
+### [Alchemy](https://docs.alchemy.com/) [(API)](https://docs.alchemy.com/reference/api-overview)  
 
 ### [Consensys](https://consensys.net/developers/)
 
 ### [ethers.js library](https://docs.ethers.io/)  
 
-### [OpenZepellin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)  
-
+### OpenZepellin contracts - [docs](https://docs.openzeppelin.com/contracts) and [code](https://github.com/OpenZeppelin/openzeppelin-contracts)  
+`npm install @openzeppelin/contracts`  
 ### [Solidity by Example](https://solidity-by-example.org/)  
 
 ### [Staking pools](https://ethereum.org/en/staking/pools/)  
