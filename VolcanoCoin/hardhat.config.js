@@ -10,13 +10,13 @@ module.exports = {
           url: "https://eth-mainnet.alchemyapi.io/v2/DUlP1Zz-vLfvSH6IdbS9TuBkI4-7bqTe",
         },
     },
-    /*hardhat: {
+    hardhat: {
       mining: {
         automine: false,
         mempool: {
           order: "priority"
         }
       }
-    }*/
+    }
   },
 };

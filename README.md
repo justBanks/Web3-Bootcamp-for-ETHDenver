@@ -53,8 +53,8 @@ https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-de
 
 ### [ethers.js library](https://docs.ethers.io/)  
 
-### OpenZepellin contracts - [docs](https://docs.openzeppelin.com/contracts) and [code](https://github.com/OpenZeppelin/openzeppelin-contracts)  
-`npm install @openzeppelin/contracts`  
+### OpenZepellin contracts ([docs](https://docs.openzeppelin.com/contracts)) ([code](https://github.com/OpenZeppelin/openzeppelin-contracts)) `npm install @openzeppelin/contracts`  
+
 ### [Solidity by Example](https://solidity-by-example.org/)  
 
 ### [Staking pools](https://ethereum.org/en/staking/pools/)  
