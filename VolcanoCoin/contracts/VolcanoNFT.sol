@@ -16,9 +16,10 @@ contract VolcanoNFT is Ownable, ERC721URIStorage
     mapping(address => uint[]) public _tokensOwned;
 
     constructor() payable Ownable() ERC721("Pompay", "POMP") {
+        // just because I want 3 for myself
         safeMint(msg.sender);
         safeMint(msg.sender);
-        safeMint(msg.sender); // spare token, to transfer with team wallet
+        safeMint(msg.sender);
     }
 
     // tokenURI should resolve to a metadata JSON schema
@@ -39,6 +40,7 @@ contract VolcanoNFT is Ownable, ERC721URIStorage
     function mintToken() external payable returns(uint) {
         require(_tokenIds.current() < _totalSupply, "Total supply of tokens has been claimed");
         require(msg.value == 10000000000000000, "First gimme .01 GoETH");
+        emit Transfer(address(this), msg.sender, msg.value);
         return safeMint(msg.sender);
     }
 

@@ -36,7 +36,7 @@ an [Encode Club](http://encode.club) bootcamp
 ```  
 On unit test syntax:  
 Hardhat : https://hardhat.org/guides/waffle-testing.html  
-Foundry : https://book.getfoundry.sh/forge/tests  
+Foundry : https://book.getfoundry.sh/forge/tests [Cheatcodes reference](https://book.getfoundry.sh/cheatcodes)  
 Truffle : https://trufflesuite.com/docs/truffle/testing/writing-tests-in-javascript.html  
   
 forge init/build/test  
@@ -74,6 +74,8 @@ Hackathons: Chainlink, ETHGlobal, Devfolio, DoraHacks
 Supplemental Learnig  
 [freeCodeCamp: The ultimate course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (32 hours)  
 [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74) (dev.to)  
+[Learning Solidity](https://github.com/willitscale/learning-solidity) - willitscale  
+[Awesome Solidity](https://github.com/bkrem/awesome-solidity#official) - curated list of resources  
 [Building Web3 Decentralized Apps in Ethereum](https://www.linkedin.com/learning/building-web3-decentralized-apps-in-ethereum) (2 hours)  
 [Build an Ethereum Blockchain App](https://www.linkedin.com/learning/paths/build-an-ethereum-blockchain-app) (10 hours)  
 [Blockchain: Learning Solidity](https://www.linkedin.com/learning/blockchain-learning-solidity) (50 minutes)  
