@@ -4,4 +4,11 @@
 node_modules/
 **/cache/
 **/artifacts/
+**/lib/
 Downloads/
+
+**/.env
+**/coverage
+**/coverage.json
+**/typechain
+**/typechain-types

@@ -54,5 +54,4 @@ contract ShameTokenTest is Test {
         assertEq(token.balanceOf(address(this)), startingBalance - 1);
     }
     
-    // Document the contract with Natspec, and produce docs from this
 }

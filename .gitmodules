@@ -1,0 +1,3 @@
+[submodule "ShameToken/lib/forge-std"]
+	path = ShameToken/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
