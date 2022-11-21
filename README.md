@@ -17,7 +17,9 @@ an [Encode Club](http://encode.club) bootcamp
 
 # Resources  
 
-### [Ethereum development documentation](https://ethereum.org/en/developers/docs/)
+### [Ethereum development documentation](https://ethereum.org/en/developers/docs/)  
+
+### [ethers](https://docs.ethers.io/v5)  
 
 ### [Hardhat](https://hardhat.org/hardhat-network/docs/overview)  
 ```
