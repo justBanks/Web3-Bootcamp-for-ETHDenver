@@ -72,6 +72,8 @@ Hackathons: Chainlink, ETHGlobal, Devfolio, DoraHacks
 [Blockchain Council](https://www.blockchain-council.org/blockchain-certification/)  
 
 Supplemental Learnig  
+[Getting Started with IPFS](https://app.pluralsight.com/library/courses/ipfs-getting-started) (48 minutes)(Pluralsight)  
+[alchemy university](https://university.alchemy.com/#starter-code)  
 [freeCodeCamp: The ultimate course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (32 hours)  
 [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74) (dev.to)  
 [Learning Solidity](https://github.com/willitscale/learning-solidity) - willitscale  
