@@ -65,15 +65,23 @@ https://www.quicknode.com/guides/smart-contract-development/how-to-create-and-de
 [YouTube](https://www.youtube.com/c/SecureumVideos/featured)  
 [Substack](https://secureum.substack.com/archive?sort=new)  
 
+[blockchaindemo.io](https://blockchaindemo.io)  
+
 ### [RapidTables](https://www.rapidtables.com/convert/number/) (for number conversions)  
 
 [Top 5 VS Code Extensions for Smart-Contract Hacking |2022](https://medium.com/@sm4rty/top-5-vs-code-extensions-for-smart-contract-hacking-2022-528740a575c6)  
 
 Hackathons: Chainlink, ETHGlobal, Devfolio, DoraHacks  
 
+Ethereum IDEs: Ape, Brownie, Daptools, Embark, Truffle  
+
+Need to look into: SMTChecker, via-IR, Sourcify, fixed-point types, EIPs  
+
 [Blockchain Council](https://www.blockchain-council.org/blockchain-certification/)  
 
 Supplemental Learnig  
+[All About Solidity](https://medium.com/coinmonks/all-about-solidity-article-series-f57be7bf6746)  
+[Questbook](https://openquest.xyz./)  
 [Getting Started with IPFS](https://app.pluralsight.com/library/courses/ipfs-getting-started) (48 minutes)(Pluralsight)  
 [alchemy university](https://university.alchemy.com/#starter-code)  
 [freeCodeCamp: The ultimate course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) (32 hours)  

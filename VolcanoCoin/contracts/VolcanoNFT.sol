@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol"; // for per-token metadata
 
-// contract 0x02b01d6fe26590e718497b0056d852c175b2cf79
+//contract 0xB4606dc53BeF988F6DD1D4d9241C735B3729Be61
 contract VolcanoNFT is Ownable, ERC721URIStorage
 {
     using Counters for Counters.Counter; // gives _tokenIds extension methods from Counters library
@@ -16,27 +16,20 @@ contract VolcanoNFT is Ownable, ERC721URIStorage
     mapping(address => uint[]) public _tokensOwned;
 
     constructor() payable Ownable() ERC721("Pompay", "POMP") {
-        // just because I want 3 for myself
-        safeMint(msg.sender);
-        safeMint(msg.sender);
-        safeMint(msg.sender);
+        safeMint(msg.sender); // just because I want one for myself
     }
 
-    // tokenURI should resolve to a metadata JSON schema
     function safeMint(address to) private returns(uint) {
         _tokenIds.increment();
         require(_tokenIds.current() < _totalSupply, "Total supply of tokens has been claimed");
         _safeMint(to, _tokenIds.current());
-        //_setTokenURI(newItemId, "{\"name\": \"POMP token\", \"tokenId\": }");
+        _setTokenURI(_tokenIds.current(), "https://gateway.pinata.cloud/ipfs/QmaNsYmw3xwfAvZbHHKqzFV7xrSVwrLPbo4fzabahzHLoY");
         _totalSupply--;
         _tokensOwned[to].push(_tokenIds.current());
         console.log("Total supply remaining: ", _totalSupply);
         return _tokenIds.current();
     }
 
-    /** 
-     * Why pass in a token URI here, when ERC721 provides a standardized tokenURI() function? 
-     */
     function mintToken() external payable returns(uint) {
         require(_tokenIds.current() < _totalSupply, "Total supply of tokens has been claimed");
         require(msg.value == 10000000000000000, "First gimme .01 GoETH");
